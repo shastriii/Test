@@ -1,5 +1,5 @@
 excel-transformation-task/
-├── Mall_Customers.csv         # Your final Excel file with all changes
+├── Mall_Customers.csv        # Your final Excel file with all changes
 ├── original_data.xlsx            # (Optional) The raw/original file before cleaning
 ├── screenshots/                  # Screenshots of your steps (if needed)
 │   └── split_columns.png
